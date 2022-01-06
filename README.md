@@ -1,8 +1,7 @@
 - 👋 Hi, I’m juan jesus
 - 👀 I’m interested in movies, series and music.
 - 🌱 I’m currently learning front-end and back-end with some frameworks.
-- 💞️ I’m looking to collaborate on some proyects of any kind. I really want to earn some experiences working with people more capable or people that have more experience 
-than me in this things.
+- 💞️ I’m looking to collaborate on some proyects of any kind. I really want to earn some experiences working with people more capable or people that have more experience than me in this field.
 - 📫 How to reach me juanjesusperezcastillo@gmail.com
 
 <!---
